@@ -1,0 +1,6 @@
+{
+  "name": "mikthona",
+  "description": "Premium convenience store marketing website",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
